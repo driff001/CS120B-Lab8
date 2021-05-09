@@ -3,7 +3,7 @@
  *	Lab Section: 22
  *	Assignment: Lab 8  Exercise 3
  *	Exercise Description: [optional - include for your own benefit]
- *      Video Link:
+ *      Video Link: https://www.youtube.com/watch?v=OtwrEtf5o6o
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
